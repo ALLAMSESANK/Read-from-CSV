@@ -40,7 +40,6 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![ot](./1.png)
-
+![image](https://github.com/ALLAMSESANK/Read-from-CSV/assets/147120920/b6302605-05e3-4489-bfbd-38d73fe1c421)
 
 ## RESULT:
